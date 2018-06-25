@@ -1,0 +1,27 @@
+2018-06-21 08:07:31,589 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-21 08:07:32,811 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+1: 0-bn:00061328n	penalty	isA	bn:00042810n	handicap	
+1: 1-bn:00027819n	noise	isA	bn:00078424n	trouble	
+1: 2-bn:00027819n	noise	isA	bn:00021221n	communication	
+4: 1-bn:00027819n	noise	hasKind	bn:00857872n	Atmospheric_noise	
+1: 0-bn:00037196n	game_misconduct	isA	bn:00061328n	penalty	
+1: 0-bn:00720965n	Interference_proceeding	isA	bn:00983804n	Inter_partes	
+1: 0-bn:04517591n	Interference	isA	bn:16016193n	episode	
+1: 0-bn:03561486n	interference_(chess)	isA	bn:14651218n	Chess_tactic	
+1: 0-bn:00047092n	intervention	isA	bn:00035835n	foreign_policy	
+1: 1-bn:00047092n	intervention	isA	bn:00080439n	war	
+1: 2-bn:00047092n	intervention	isA	bn:00049915n	terminology	
+5: 0-bn:00047092n	intervention	hasInstance	bn:02270294n	Indian_intervention_in_the_Sri_Lankan_Civil_War	
+5: 1-bn:00047092n	intervention	hasInstance	bn:14046661n	2014_American_intervention_in_Syria	
+5: 2-bn:00047092n	intervention	hasInstance	bn:15828102n	International_military_intervention_against_ISIL	
+5: 3-bn:00047092n	intervention	hasInstance	bn:16367744n	British_military_intervention_in_the_Sierra_Leone_Civil_War	
+5: 4-bn:00047092n	intervention	hasInstance	bn:16549678n	American-led_intervention_in_Iraq_(2014–present)	
+5: 5-bn:00047092n	intervention	hasInstance	bn:17461129n	Jordanian_intervention_in_the_Syrian_Civil_War	
+5: 6-bn:00047092n	intervention	hasInstance	bn:01766706n	First_Madagascar_expedition	
+5: 7-bn:00047092n	intervention	hasInstance	bn:01756041n	Second_Madagascar_expedition	
+5: 8-bn:00047092n	intervention	hasInstance	bn:14213767n	2014–16_Russian_military_intervention_in_Ukraine	
+1: 0-bn:00047093n	interference	isA	bn:00011318n	blocking	
+1: 0-bn:00044174n	hindrance	isA	bn:00001077n	act	
+1: 0-bn:00030713n	encumbrance	isA	bn:00046086n	impediment	
+1: 0-bn:00036570n	fringe	isA	bn:00059217n	optical_phenomenon	
+5: 0-bn:00036570n	fringe	hasInstance	bn:01071524n	Hong–Ou–Mandel_effect	

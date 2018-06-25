@@ -1,0 +1,14 @@
+1: 0-bn:17488262n	Control(human,_data,_sound)	isA	bn:00061560n	performance	
+1: 0-bn:00085747v	control	isA	bn:00082812v	ascertain	
+1: 0-bn:00022284n	control	isA	bn:00066995n	relation	
+1: 1-bn:00022289n	controller	isA	bn:00054065n	mechanism	
+1: 2-bn:00022289n	controller	isA	bn:00025323n	input_device	
+1: 3-bn:00022289n	controller	isA	bn:00021491n	peripheral	
+1: 4-bn:00022289n	controller	isA	bn:00032282n	expansion_slot	
+4: 1-bn:00022289n	controller	hasKind	bn:00556491n	MIDI_controller	
+1: 0-bn:00006248n	dominance	isA	bn:00021644n	condition	
+1: 9-bn:14925012n	Control_(management)	isA	bn:00075427n	surveillance	
+1: 10-bn:14925012n	Control_(management)	isA	bn:00407065n	management_cybernetics	
+1: 11-bn:14925012n	Control_(management)	isA	bn:00022303n	control_system	
+4: 9-bn:14925012n	Control_(management)	hasKind	bn:00053116n	management	
+4: 10-bn:14925012n	Control_(management)	hasKind	bn:01824861n	Border_control	

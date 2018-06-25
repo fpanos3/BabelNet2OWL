@@ -1,0 +1,17 @@
+2018-06-21 08:13:50,080 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-21 08:13:50,916 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+1: 0-bn:00053100n	man	isA	bn:00052144n	lover	
+1: 1-bn:00053100n	man	isA	bn:00052968n	male	
+1: 0-bn:00053099n	man	isA	bn:00052968n	male	
+1: 0-bn:03485443n	batman_(unit)	isA	bn:14664350n	unit_of_mass	
+1: 1-bn:03485443n	batman_(unit)	isA	bn:00079106n	unit	
+1: 0-bn:06211402n	Mahn	isA	bn:00020465n	last_name	
+1: 1-bn:06211402n	Mahn	isA	bn:00849037n	Korean_name	
+1: 0-bn:15327088n	man_page	isA	bn:02110172n	Software_documentation	
+1: 2-bn:00037770n	valet	isA	bn:00011772n	body_servant	
+1: 3-bn:00037770n	valet	isA	bn:00053251n	manservant	
+1: 4-bn:00037770n	valet	isA	bn:00028150n	domestic	
+1: 5-bn:00037770n	valet	isA	bn:00054329n	menial	
+1: 6-bn:00037770n	valet	isA	bn:00067423n	servant	
+4: 2-bn:00037770n	valet	hasKind	bn:00014231n	butler	
+4: 3-bn:00037770n	valet	hasKind	bn:00035444n	lackey	

@@ -1,0 +1,6 @@
+1: 0-bn:01931239n	Compatibility_(mechanics)	isA	bn:03679282n	Displacement_field_(mechanics)	
+1: 0-bn:00021322n	compatibility	isA	bn:00017762n	characteristic	
+1: 0-bn:00021321n	compatibility	isA	bn:00034003n	sympathy	
+1: 0-bn:03201307n	backward_compatibility	isA	bn:00021497n	software	
+1: 1-bn:03201307n	backward_compatibility	isA	bn:00049915n	terminology	
+1: 2-bn:03201307n	backward_compatibility	isA	bn:00005105n	technology	

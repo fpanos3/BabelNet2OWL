@@ -1,0 +1,24 @@
+bn:00014691n	calculator			
+bn:00021464n	computer			
+bn:03557802n	Computer music			
+bn:00021464n	computer	isA	bn:00052556n	machine
+bn:00021464n	computer	isA	bn:00077585n	tool
+bn:00021464n	computer	isA	bn:17271339n	electrical_apparatus
+bn:00021464n	computer	PartOf	bn:00062900n	platform
+bn:00021464n	computer	PartOf	bn:00007371n	robot
+bn:00021464n	computer	PartOf	bn:03608987n	computer security
+bn:00021464n	computer	hasPart	bn:00014082n	bus
+bn:00021464n	computer	hasPart	bn:00021480n	hardware
+bn:00021464n	computer	hasPart	bn:00021482n	computer_keyboard
+bn:00021464n	computer	hasPart	bn:00021497n	software
+bn:00021464n	computer	hasPart	bn:00023437n	motherboard
+bn:00021464n	computer	hasKind	bn:00003783n	analog_computer
+bn:00021464n	computer	hasKind	bn:00042771n	hand-held computer
+bn:00021464n	computer	hasKind	bn:00044916n	host
+bn:00021464n	computer	hasKind	bn:00049998n 	laptop
+bn:00021464n	computer	hasKind	bn:00054739n	microcomputer
+bn:00021464n	computer	hasInstance	bn:00144022n	Electronic delay storage automatic calculator
+bn:00021464n	computer	hasInstance	bn:00214278n	NCR_304
+bn:00021464n	computer	hasInstance	bn:00315860n	Vector-06C
+bn:00021464n	computer	hasInstance	bn:00666797n	Fireplane
+bn:00021464n	computer	hasInstance	bn:00863137n	LGP-30

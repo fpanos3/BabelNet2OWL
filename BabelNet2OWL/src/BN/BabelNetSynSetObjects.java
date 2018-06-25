@@ -10,15 +10,24 @@ import java.util.Arrays;
 public class BabelNetSynSetObjects {
 
 
-	    public static void main(String[] args) throws IOException {
+	    @SuppressWarnings("deprecation")
+		public static void main(String[] args) throws IOException {
 	    	BabelNet bn = BabelNet.getInstance();
 			BabelNetQuery query = new BabelNetQuery.Builder("computer")
 				.from(Language.EN)
 				.to(Arrays.asList(Language.IT, Language.FR))
 				.build();
 	        for (BabelSynset synset : bn.getSynsets(query)) {
-	            System.out.println("Synset ID: " + synset.getID());
+	        	System.out.println("Tipo: " + synset.getSynsetType() 
+	        			+ "\t" 
+	        			+ "Synset ID: " 
+	        			+ synset.getID());
+	    		}
+	            
+	            //System.out.println("Synset ID: " + synset.isKeyConcept());
+	            //System.out.println("Synset ID: " + synset.toString());
+	            //System.out.println("Synset ID: " + synset.getOutgoingEdges());
 	        }
 
 	    }
-	}
+

@@ -1,0 +1,8 @@
+2018-06-21 10:13:06,114 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-21 10:13:06,971 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+1: 0-bn:00064545n	processing	isA	bn:00062167n	process	
+1: 0-bn:11236374n	processing	isA	bn:15840810n	activity	
+1: 0-bn:21706578n	processing_(programming_language)	isA	bn:00064652n	programming_language	
+1: 1-bn:21706578n	processing_(programming_language)	isA	bn:14129567n	object-oriented_programming_language	
+1: 2-bn:21706578n	processing_(programming_language)	isA	bn:00064652n	programming_language	
+1: 3-bn:21706578n	processing_(programming_language)	isA	bn:00748100n	integrated_development_environment

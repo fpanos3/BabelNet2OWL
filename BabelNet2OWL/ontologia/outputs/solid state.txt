@@ -1,0 +1,20 @@
+2018-06-21 15:22:01,366 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-21 15:22:02,357 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+1: 12-bn:00072720n	solid	isA	bn:00074011n	state_of_matter	
+1: 13-bn:00072720n	solid	isA	bn:00053867n	matter	
+1: 14-bn:00072720n	solid	isA	bn:00074011n	state_of_matter	
+1: 15-bn:00072720n	solid	isA	bn:00074011n	state_of_matter	
+4: 12-bn:00072720n	solid	hasKind	bn:00017267n	ceramic	
+4: 13-bn:00072720n	solid	hasKind	bn:00024148n	crust	
+4: 14-bn:00072720n	solid	hasKind	bn:00024209n	crystal	
+4: 15-bn:00072720n	solid	hasKind	bn:00040605n	glass	
+4: 16-bn:00072720n	solid	hasKind	bn:00045705n	ice	
+4: 17-bn:00072720n	solid	hasKind	bn:00024209n	crystal	
+4: 18-bn:00072720n	solid	hasKind	bn:00045705n	ice	
+4: 19-bn:00072720n	solid	hasKind	bn:00055124n	mineral	
+4: 20-bn:00072720n	solid	hasKind	bn:00058742n	oil_cake	
+4: 21-bn:00072720n	solid	hasKind	bn:00064376n	solid_solution	
+4: 22-bn:00072720n	solid	hasKind	bn:06079572n	crust	
+4: 23-bn:00072720n	solid	hasKind	bn:14190116n	Ionic_conductivity_(solid_state)	
+1: 0-bn:03014194n	Solid-state_electronics	isA	bn:00021480n	hardware	
+1: 1-bn:03014194n	Solid-state_electronics	isA	bn:00019180n	electrical_circuit	

@@ -10,7 +10,7 @@ import it.uniroma1.lcl.babelnet.data.BabelSensePhonetics;
 public class BabelNetSense {
     public static void main(String[] args) throws IOException {
         BabelNet bn = BabelNet.getInstance();
-        for (BabelSense sense : bn.getSynset(new BabelSynsetID("bn:00021464n")).getSenses()) {
+        for (BabelSense sense : bn.getSynset(new BabelSynsetID("bn:15236369n")).getSenses()) {
             System.out.println("Sense: " + sense.getFullLemma()
                             + "\tLanguage: " + sense.getLanguage().toString()
                             + "\tSource: " + sense.getSource().toString());

@@ -1,0 +1,12 @@
+2018-06-20 15:20:35,483 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-20 15:20:36,217 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+1: 0-bn:00021927n	connotation	isA	bn:00046139n	meaning	
+1: 0-bn:00025800n	deduction	isA	bn:00045936n	inference	
+1: 0-bn:00046129n	implication	isA	bn:00000784n	accusation	
+1: 0-bn:00046128n	implication	isA	bn:00054009n	meaning	
+1: 0-bn:03506871n	Material_conditional	isA	bn:00021882n	connective	
+1: 1-bn:03506871n	Material_conditional	isA	bn:00051853n	logic_operation	
+1: 2-bn:03506871n	Material_conditional	isA	bn:03625290n	Boolean_function	
+1: 0-bn:05320880n	Implication_(information_science)	isA	bn:00002676n	algebra	
+1: 0-bn:00046130n	implication	isA	bn:00047387n	involvement	
+1: 0-bn:00021653n	conditional_relation	isA	bn:00051861n	logical_relation	

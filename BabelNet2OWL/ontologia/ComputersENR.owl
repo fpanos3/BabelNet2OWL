@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/pmf/ontologies/2018/4/untitled-ontology-15"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/pmf/ontologies/2018/4/untitled-ontology-15">
+    <Prefix name="" IRI="http://www.semanticweb.org/pmf/ontologies/2018/4/untitled-ontology-15"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1.0</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Ontologia Computers Enrichment
+Parte del TFM fpanos3
+UNED</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ComputersENR</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#Signal_Processing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Engineering_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Systems_Engineering_and_Theory"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isPartOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Consumer_electronics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electronic_Design_Automation_and_Methodology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Control_Systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Solid_State_Circuits"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Information_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Communications_Technology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dielectrics_and_Electrical_Insulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Professional_Communication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Education"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Information_Processing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mathematics"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isKindOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isInstanceOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Systems_Man_and_Cybernetics"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasKind"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Reliability"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Circuits_and_Systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electromagnetic_Compatibility_and_Interference"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasPart"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Industry_Applications"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasInstance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Social_Implications_of_Technology"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Circuits_and_Systems"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Communications_Technology"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Consumer_electronics"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Control_Systems"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dielectrics_and_Electrical_Insulation"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Education"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electromagnetic_Compatibility_and_Interference"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electronic_Design_Automation_and_Methodology"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Engineering_Management"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Industry_Applications"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Information_Processing"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Information_Theory"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mathematics"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Professional_Communication"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Reliability"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Signal_Processing"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Social_Implications_of_Technology"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solid_State_Circuits"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Systems_Engineering_and_Theory"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Systems_Man_and_Cybernetics"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#hasPart"/>
+    </InverseFunctionalObjectProperty>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

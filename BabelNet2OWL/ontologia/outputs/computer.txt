@@ -1,0 +1,81 @@
+2018-06-19 10:19:04,699 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-19 10:19:05,638 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+bn:00014691n	calculator	isA	bn:00032322n	expert	
+bn:00014691n	calculator	isA	bn:00014687n	calculator	
+bn:00014691n	calculator	isA	bn:00021492n	program	
+bn:00014691n	calculator	isA	bn:00064608n	profession	
+bn:00014691n	calculator	isA	bn:00014687n	calculator	
+c: 1-bn:00014691n	calculator	isA	bn:15718783n	GNOME_Calculator	
+c: 1-bn:00014691n	calculator	isA	bn:03466887n	Calculator_(Windows)	
+bn:00021464n	computer	isA	bn:00052556n	machine	
+bn:00021464n	computer	isA	bn:00077585n	tool	
+bn:00021464n	computer	isA	bn:17271339n	electrical_apparatus	
+bn:00021464n	computer	isA	bn:00062900n	platform	
+bn:00021464n	computer	isA	bn:00062900n	platform	
+bn:00021464n	computer	isA	bn:00014082n	bus	
+bn:00021464n	computer	isA	bn:00021480n	hardware	
+bn:00021464n	computer	isA	bn:00021482n	computer_keyboard	
+bn:00021464n	computer	isA	bn:00021497n	software	
+bn:00021464n	computer	isA	bn:00023437n	motherboard	
+bn:00021464n	computer	isA	bn:01541423n	Input/output	
+bn:00021464n	computer	isA	bn:01596064n	Clock_rate	
+bn:00021464n	computer	isA	bn:14572596n	Central_Unit	
+c: 54-bn:00021464n	computer	isA	bn:00003783n	analog_computer	
+c: 55-bn:00021464n	computer	isA	bn:00044916n	host	
+c: 56-bn:00021464n	computer	isA	bn:00054739n	microcomputer	
+c: 57-bn:00021464n	computer	isA	bn:00055158n	minicomputer	
+c: 58-bn:00021464n	computer	isA	bn:00161647n	IBM_3790	
+c: 59-bn:00021464n	computer	isA	bn:00161661n	IBM_System_9000	
+c: 60-bn:00021464n	computer	isA	bn:00379216n	Transistor_computer	
+c: 61-bn:00021464n	computer	isA	bn:00543638n	Apple_I	
+c: 62-bn:00021464n	computer	isA	bn:00570235n	IBM_6150_RT	
+c: 63-bn:00021464n	computer	isA	bn:00644308n	IBM_650	
+c: 64-bn:00021464n	computer	isA	bn:00721150n	Hybrid_computer	
+c: 65-bn:00021464n	computer	isA	bn:01215644n	Single-board_computer	
+c: 66-bn:00021464n	computer	isA	bn:01566459n	Watson_(computer)	
+c: 67-bn:00021464n	computer	isA	bn:01858088n	PowerBook	
+c: 68-bn:00021464n	computer	isA	bn:01869347n	quantum_computer	
+c: 69-bn:00021464n	computer	isA	bn:02013334n	Front-end_processor	
+c: 70-bn:00021464n	computer	isA	bn:02380053n	ternary_computer	
+c: 71-bn:00021464n	computer	isA	bn:02421618n	Thin_client	
+c: 72-bn:00021464n	computer	isA	bn:02727346n	IBM_AP-101	
+c: 73-bn:00021464n	computer	isA	bn:03078687n	high-performance_computing	
+c: 74-bn:00021464n	computer	isA	bn:03233035n	embedded_system	
+c: 75-bn:00021464n	computer	isA	bn:03406407n	RS/6000	
+c: 76-bn:00021464n	computer	isA	bn:03414654n	Chemical_computer	
+c: 77-bn:00021464n	computer	isA	bn:03575439n	AIM-65	
+c: 78-bn:00021464n	computer	isA	bn:03626553n	Industrial_PC	
+c: 79-bn:00021464n	computer	isA	bn:05153371n	A_5120	
+c: 80-bn:00021464n	computer	isA	bn:07077078n	TRS-703	
+c: 81-bn:00021464n	computer	isA	bn:07086418n	TRS-901	
+c: 82-bn:00021464n	computer	isA	bn:07086420n	TRS-716	
+c: 83-bn:00021464n	computer	isA	bn:07086447n	TRS_713	
+c: 84-bn:00021464n	computer	isA	bn:14101894n	Carbon_nanotube_computer	
+c: 85-bn:00021464n	computer	isA	bn:14494102n	Mainframe_computer	
+c: 86-bn:00021464n	computer	isA	bn:14527626n	IBM_4020_Military_Computer	
+c: 87-bn:00021464n	computer	isA	bn:17143328n	Transistorized_computer	
+c: 88-bn:00021464n	computer	isA	bn:17279861n	Portable_computer	
+c: 54-bn:00021464n	computer	isA	bn:00214278n	NCR_304	
+c: 55-bn:00021464n	computer	isA	bn:00874389n	IBM_4694	
+c: 56-bn:00021464n	computer	isA	bn:01080645n	Titan_(computer)	
+c: 57-bn:00021464n	computer	isA	bn:01126048n	VT180	
+c: 58-bn:00021464n	computer	isA	bn:01441115n	Iskra-1030	
+c: 59-bn:00021464n	computer	isA	bn:01569496n	The_Centre_for_Computing_History	
+c: 60-bn:00021464n	computer	isA	bn:01704660n	General_Computer	
+c: 61-bn:00021464n	computer	isA	bn:02028083n	UTEC	
+c: 62-bn:00021464n	computer	isA	bn:02927060n	FastCAD	
+c: 63-bn:00021464n	computer	isA	bn:03327696n	IBM_4683	
+c: 64-bn:00021464n	computer	isA	bn:04641970n	Toshiba_T_100	
+c: 65-bn:00021464n	computer	isA	bn:05153356n	D4a	
+c: 66-bn:00021464n	computer	isA	bn:06472848n	ZAM-41	
+c: 67-bn:00021464n	computer	isA	bn:15337473n	MECIPT	
+c: 68-bn:00021464n	computer	isA	bn:03240175n	Galeb_(computer)	
+c: 69-bn:00021464n	computer	isA	bn:01323006n	Mailüfterl	
+c: 70-bn:00021464n	computer	isA	bn:01338739n	IBM_709	
+c: 71-bn:00021464n	computer	isA	bn:01575749n	CAB500	
+c: 72-bn:00021464n	computer	isA	bn:03321540n	Mac_Pro	
+c: 73-bn:00021464n	computer	isA	bn:03751461n	Deep_Thought_(chess_computer)	
+c: 74-bn:00021464n	computer	isA	bn:01725777n	Manchester_Mark_1	
+bn:03557802n	Computer_music	isA	bn:21706616n	Musical_technique	
+bn:03557802n	Computer_music	isA	bn:00049915n	terminology	
+c: 1-bn:03557802n	Computer_music	isA	bn:03253674n	Algorithmic_composition	

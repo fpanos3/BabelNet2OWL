@@ -1,0 +1,64 @@
+2018-06-19 10:30:30,903 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-19 10:30:31,815 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+bn:00005092n	application	isA	bn:00030627n	use	
+bn:00005096n	application	isA	bn:00024461n	cure	
+bn:00060986n	patent_application	isA	bn:00005093n	application	
+bn:00060986n	patent_application	isA	bn:00028015n	document	
+bn:00060986n	patent_application	isA	bn:00028016n	document	
+bn:00060986n	patent_application	isA	bn:00028017n	document	
+bn:00060986n	patent_application	isA	bn:00028018n	document	
+bn:00005095n	application	isA	bn:00021492n	program	
+bn:00005095n	application	isA	bn:00021497n	software	
+bn:00005095n	application	isA	bn:00021497n	software	
+bn:00005095n	application	isA	bn:00021492n	program	
+c: 60-bn:00005095n	application	isA	bn:00013447n	web_browser	
+c: 61-bn:00005095n	application	isA	bn:00021477n	video_game	
+c: 62-bn:00005095n	application	isA	bn:00041961n	groupware	
+c: 63-bn:00005095n	application	isA	bn:00066380n	reading_program	
+c: 64-bn:00005095n	application	isA	bn:00070916n	shareware	
+c: 65-bn:00005095n	application	isA	bn:00073631n	spreadsheet	
+c: 66-bn:00005095n	application	isA	bn:00081559n	word_processor	
+c: 67-bn:00005095n	application	isA	bn:00123465n	Comparison_of_notetaking_software	
+c: 68-bn:00005095n	application	isA	bn:00155848n	Business_software	
+c: 69-bn:00005095n	application	isA	bn:00215804n	Simulation_software	
+c: 70-bn:00005095n	application	isA	bn:00371087n	Help_authoring_tool	
+c: 71-bn:00005095n	application	isA	bn:00396333n	geographic_information_system	
+c: 72-bn:00005095n	application	isA	bn:00487959n	Music_software	
+c: 73-bn:00005095n	application	isA	bn:00748100n	integrated_development_environment	
+c: 74-bn:00005095n	application	isA	bn:00894995n	softsynth	
+c: 75-bn:00005095n	application	isA	bn:01003500n	Personal_information_manager	
+c: 76-bn:00005095n	application	isA	bn:01015010n	Photo_slideshow_software	
+c: 77-bn:00005095n	application	isA	bn:01238701n	Software_widget	
+c: 78-bn:00005095n	application	isA	bn:01574592n	Virtual_globe	
+c: 79-bn:00005095n	application	isA	bn:01666041n	newsfeed	
+c: 80-bn:00005095n	application	isA	bn:01682279n	softphone	
+c: 81-bn:00005095n	application	isA	bn:01872393n	Genealogy_software	
+c: 82-bn:00005095n	application	isA	bn:02246184n	web_application	
+c: 83-bn:00005095n	application	isA	bn:02296345n	Productivity_software	
+c: 84-bn:00005095n	application	isA	bn:02429502n	Presentation_program	
+c: 85-bn:00005095n	application	isA	bn:02589960n	virtual_machine	
+c: 86-bn:00005095n	application	isA	bn:02609917n	Rosetta@home	
+c: 87-bn:00005095n	application	isA	bn:02709719n	Mobile_app	
+c: 88-bn:00005095n	application	isA	bn:02794844n	Game_creation_system	
+c: 60-bn:00005095n	application	isA	bn:00046146n	importer	
+c: 61-bn:00005095n	application	isA	bn:00150278n	Cone_(software)	
+c: 62-bn:00005095n	application	isA	bn:00164691n	Variable_Data_Intelligent_Postscript_Printware	
+c: 63-bn:00005095n	application	isA	bn:00179103n	StarDict	
+c: 64-bn:00005095n	application	isA	bn:00197509n	MegaZeux	
+c: 65-bn:00005095n	application	isA	bn:00209106n	MBRwizard	
+c: 66-bn:00005095n	application	isA	bn:00216953n	Stani's_Python_Editor	
+c: 67-bn:00005095n	application	isA	bn:00216987n	SapWin	
+c: 68-bn:00005095n	application	isA	bn:00219017n	OpenTracker	
+c: 69-bn:00005095n	application	isA	bn:00318889n	Métamorphose_(renamer)	
+c: 70-bn:00005095n	application	isA	bn:00323295n	Moonlight_(runtime)	
+c: 71-bn:00005095n	application	isA	bn:00349598n	IcyOwl	
+c: 72-bn:00005095n	application	isA	bn:00383741n	Vesuite	
+c: 73-bn:00005095n	application	isA	bn:00414852n	KImageMapEditor	
+c: 74-bn:00005095n	application	isA	bn:00453501n	DelPhi_(software)	
+bn:00027133n	diligence	isA	bn:00026651n	determination	
+bn:00027133n	diligence	isA	bn:00055848n	virtue	
+bn:00005094n	application	isA	bn:00053281n	manual_labour	
+bn:00005093n	application	isA	bn:00061826n	petition	
+bn:00005098n	application	isA	bn:00001127n	action	
+bn:15895597n	motion	isA	bn:00859498n	motion_(parliamentary_procedure)	
+bn:00005097n	application	isA	bn:00029899n	elbow_grease	

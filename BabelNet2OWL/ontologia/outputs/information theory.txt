@@ -1,0 +1,12 @@
+2018-06-20 16:26:12,999 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-20 16:26:13,717 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+1: 1-bn:00046714n	information_theory	isA	bn:00069679n	scientific_theory	
+1: 2-bn:00046714n	information_theory	isA	bn:00045632n	hypothesis	
+1: 3-bn:00046714n	information_theory	isA	bn:00337848n	Branches_of_science	
+1: 4-bn:00046714n	information_theory	isA	bn:00005103n	applied_mathematics	
+3: 1-bn:00046714n	information_theory	hasPart	bn:00066744n	redundancy	
+3: 2-bn:00046714n	information_theory	hasPart	bn:13807666n	equivocation	
+3: 3-bn:00046714n	information_theory	hasPart	bn:14098067n	Communication	
+4: 1-bn:00046714n	information_theory	hasKind	bn:01853070n	Information_gain_in_decision_trees	
+5: 1-bn:00046714n	information_theory	hasInstance	bn:03334769n	Data_redundancy	
+5: 2-bn:00046714n	information_theory	hasInstance	bn:02194183n	Algorithmic_information_theory	

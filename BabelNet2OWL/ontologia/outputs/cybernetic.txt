@@ -1,0 +1,5 @@
+1: 1-bn:00024707n	cybernetics	isA	bn:00046704n	information_science	
+1: 2-bn:00024707n	cybernetics	isA	bn:17094543n	Final_approach_(aeronautics)	
+3: 1-bn:00024707n	cybernetics	hasPart	bn:00375649n	variety_(cybernetics)	
+4: 1-bn:00024707n	cybernetics	hasKind	bn:03115331n	biocybernetics	
+5: 1-bn:00024707n	cybernetics	hasInstance	bn:03589730n	Medical_cybernetics	

@@ -13,7 +13,9 @@ public class BabelNetHypernyms {
         BabelNet bn = BabelNet.getInstance();
         BabelSynset by = bn.getSynset(new BabelSynsetID("bn:00021464n"));
         for(String form : by.getOtherForms(Language.EN)) {
-            System.out.println(by.getID()+"\t"+by.getMainSense(Language.EN).get().getFullLemma()+" - "
+            System.out.println(by.getID()
+            	+ "\t"
+            	+ by.getMainSense(Language.EN).get().getFullLemma()+" - "
                 + form);
         }
     }

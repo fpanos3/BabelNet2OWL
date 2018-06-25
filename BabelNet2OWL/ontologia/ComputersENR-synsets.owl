@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/pmf/ontologies/2018/4/untitled-ontology-15"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/pmf/ontologies/2018/4/untitled-ontology-15">
+    <Prefix name="" IRI="http://www.semanticweb.org/pmf/ontologies/2018/4/untitled-ontology-15"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1.0</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Ontologia Computers Enrichment
+Parte del TFM fpanos3
+UNED</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ComputersENR</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#Dielectric"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Applications"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Analog_Computer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Robot"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Engineering_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electromagnetic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Engineering"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electronic_Design_Automation_and_Methodology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SYNSETS"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Fireplane"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Solid_State_Circuits"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Consumer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Social"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Technology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Host"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Calculator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Software"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Insulation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#NCR_304"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Control"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electrical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Circuits_and_Systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Secutiry"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasPart"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Microcomputer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Industry_Applications"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Communication"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasInstance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Circuit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Signal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Signal_Processing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hand-held_Computer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electronic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interference"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Compatibility"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hardware"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Systems_Engineering_and_Theory"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isPartOf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#LGP-30"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Consumer_electronics"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSubClass"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Solid_State"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Implication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Control_Systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Motherboard"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Machine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computer_Music"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Apparatus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Electronic_delay_storage_automatic_calculator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Information_Theory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Communications_Technology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dielectrics_and_Electrical_Insulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Professional_Communication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Man"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#System"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Education"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mathematics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Processing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Information_Processing"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isKindOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isSubClassOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Keyboard"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isInstanceOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Systems_Man_and_Cybernetics"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Vector-06C"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Laptop"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasKind"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Information"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Reliability"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electromagnetic_Compatibility_and_Interference"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tool"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CORPORA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cybernetics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Platform"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Industry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Professional"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Social_Implications_of_Technology"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Apparatus"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Applications"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bus"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CORPORA"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Calculator"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Circuit"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Circuits_and_Systems"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Communication"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Communications_Technology"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Compatibility"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computer"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computer_Music"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Consumer"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Consumer_electronics"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Control"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Control_Systems"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cybernetics"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dielectric"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dielectrics_and_Electrical_Insulation"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Education"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electrical"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electromagnetic"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electromagnetic_Compatibility_and_Interference"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electronic"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electronic_Design_Automation_and_Methodology"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Engineering"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Engineering_Management"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hardware"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Implication"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Industry"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Industry_Applications"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Information"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Information_Processing"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Information_Theory"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Insulation"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interference"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Keyboard"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Machine"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Man"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Management"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mathematics"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Motherboard"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Platform"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Processing"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Professional"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Professional_Communication"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Reliability"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Robot"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SYNSETS"/>
+        <Class IRI="#Computers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Secutiry"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Signal"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Signal_Processing"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Social"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Social_Implications_of_Technology"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Software"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solid_State"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solid_State_Circuits"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#System"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Systems_Engineering_and_Theory"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Systems_Man_and_Cybernetics"/>
+        <Class IRI="#CORPORA"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Technology"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tool"/>
+        <Class IRI="#SYNSETS"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#Analog_Computer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#Electronic_delay_storage_automatic_calculator"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#Fireplane"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#Hand-held_Computer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#Host"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#LGP-30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#Laptop"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#Microcomputer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#NCR_304"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Computer"/>
+        <NamedIndividual IRI="#Vector-06C"/>
+    </ClassAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSubClass"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#isSubClassOf"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#isA"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#hasPart"/>
+    </InverseFunctionalObjectProperty>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

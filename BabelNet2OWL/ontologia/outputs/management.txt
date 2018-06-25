@@ -1,0 +1,30 @@
+2018-06-21 08:16:44,678 [main] [ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM C:\eclipse\GIT\BabelNet2OWL\BabelNet2OWL\config\babelnet.properties
+2018-06-21 08:16:45,495 [main] [ INFO  ] BabelNet - BabelNet online RESTful API v4.0 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+1: 39-bn:00053116n	management	isA	bn:00001423n	establishment	
+1: 40-bn:00053116n	management	isA	bn:14925012n	Control_(management)	
+1: 41-bn:00053116n	management	isA	bn:00337848n	Branches_of_science	
+1: 42-bn:00053116n	management	isA	bn:15840810n	activity	
+4: 39-bn:00053116n	management	hasKind	bn:00001426n	governance	
+4: 40-bn:00053116n	management	hasKind	bn:00162220n	Natural_resource_management	
+4: 41-bn:00053116n	management	hasKind	bn:00224819n	health_service_management	
+4: 42-bn:00053116n	management	hasKind	bn:00264400n	File_manager	
+4: 43-bn:00053116n	management	hasKind	bn:00514611n	Technical_management	
+4: 44-bn:00053116n	management	hasKind	bn:00853232n	Quality_management	
+4: 45-bn:00053116n	management	hasKind	bn:01115686n	self-governing_socialism	
+4: 46-bn:00053116n	management	hasKind	bn:01300258n	Construction_management	
+4: 47-bn:00053116n	management	hasKind	bn:01723987n	Strategic_management	
+4: 48-bn:00053116n	management	hasKind	bn:01740508n	project_management	
+4: 49-bn:00053116n	management	hasKind	bn:01957978n	Wildlife_management	
+4: 50-bn:00053116n	management	hasKind	bn:01996781n	risk_management	
+4: 51-bn:00053116n	management	hasKind	bn:02165119n	Wealth_management	
+4: 52-bn:00053116n	management	hasKind	bn:02461163n	task_list	
+4: 53-bn:00053116n	management	hasKind	bn:02580178n	Money_management	
+4: 54-bn:00053116n	management	hasKind	bn:03141009n	Configuration_management	
+4: 55-bn:00053116n	management	hasKind	bn:03557185n	customer_relationship_management	
+4: 56-bn:00053116n	management	hasKind	bn:03619698n	Forest_management	
+4: 57-bn:00053116n	management	hasKind	bn:03662959n	Sales_management	
+4: 58-bn:00053116n	management	hasKind	bn:15384781n	self-management	
+4: 59-bn:00053116n	management	hasKind	bn:15513601n	Plant-Asset-Management	
+4: 60-bn:00053116n	management	hasKind	bn:15793146n	Air_traffic_management	
+4: 61-bn:00053116n	management	hasKind	bn:15934271n	educational_management	
+4: 62-bn:00053116n	management	hasKind	bn:16735744n	future_management	

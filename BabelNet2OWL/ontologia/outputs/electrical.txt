@@ -1,0 +1,7 @@
+1: 5-bn:00030192n	electricity	isA	bn:00062166n	physical_phenomenon	
+1: 6-bn:00030192n	electricity	isA	bn:03942688n	physical_phenomenon	
+4: 5-bn:00030192n	electricity	hasKind	bn:00006933n	nuclear_power	
+4: 6-bn:00030192n	electricity	hasKind	bn:00024510n	current	
+4: 7-bn:00030192n	electricity	hasKind	bn:00045374n	hydroelectricity	
+4: 8-bn:00030192n	electricity	hasKind	bn:00999828n	Mains_electricity	
+4: 9-bn:00030192n	electricity	hasKind	bn:02080690n	Electricity_sector_in_Sweden	

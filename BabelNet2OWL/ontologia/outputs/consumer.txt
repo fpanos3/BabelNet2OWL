@@ -1,0 +1,12 @@
+1: 1-bn:00043945n	heterotroph	isA	bn:00009677n	being	
+1: 2-bn:00043945n	heterotroph	isA	bn:00009677n	being	
+1: 3-bn:00043945n	heterotroph	isA	bn:03869681n	primary_nutritional_group	
+1: 4-bn:00043945n	heterotroph	isA	bn:00009677n	being	
+4: 1-bn:00043945n	heterotroph	hasKind	bn:02713706n	Aerobic_anoxygenic_photoheterotroph_bacteria	
+1: 0-bn:01763580n	Consumer_(food_chain)	isA	bn:00009677n	being	
+1: 1-bn:01763580n	Consumer_(food_chain)	isA	bn:00009677n	being	
+1: 2-bn:01763580n	Consumer_(food_chain)	isA	bn:00408843n	organic_matter	
+1: 1-bn:00022095n	consumer	isA	bn:00079373n	user	
+1: 2-bn:00022095n	consumer	isA	bn:00041943n	group	
+1: 3-bn:00022095n	consumer	isA	bn:00046516n	individual	
+1: 4-bn:00022095n	consumer	isA	bn:00070651n	service	
